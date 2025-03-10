@@ -1,0 +1,9 @@
+2025-03-10 20:06:41,158 - ERROR - Pipeline failed: read_csv() missing 1 required positional argument: 'file_path'
+2025-03-10 20:07:09,517 - ERROR - Pipeline failed: name 'transformed_df' is not defined
+2025-03-10 20:09:38,239 - ERROR - Pipeline failed: name 'transformed_df' is not defined
+2025-03-10 20:11:37,275 - ERROR - Pipeline failed: name 'transformed_df' is not defined
+2025-03-10 20:12:01,994 - ERROR - Pipeline failed: name 'transformed_df' is not defined
+2025-03-10 20:34:09,539 - ERROR - Pipeline failed: '_csv.reader' object is not subscriptable
+2025-03-10 20:36:55,655 - ERROR - Pipeline failed: name 'transformed_df' is not defined
+2025-03-10 20:40:12,412 - ERROR - Pipeline failed: [Errno 2] No such file or directory: 'names.csv'
+2025-03-10 20:40:43,962 - ERROR - Pipeline failed: name 'transformed_df' is not defined
